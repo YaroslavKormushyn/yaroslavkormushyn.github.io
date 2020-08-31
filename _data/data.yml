@@ -1,0 +1,131 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yaroslav Kormushyn
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: yaroslav.kormushyn@pm.me
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: ykormushyn
+    github: YaroslavKormushyn
+    telegram: ykormushyn
+    gitlab: ykormushyn
+    bitbucket: ykormushyn
+    twitter: 
+    stack-overflow: 13977648/ykormushyn # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: 118772400-yaroslav-kormushyn # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Ukrainian
+        level: Native
+
+      - idiom: Russian
+        level: Advanced
+
+      - idiom: English
+        level: Advanced
+
+      - idiom: German
+        level: Beginner
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Swimming
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am a full-stack developer specializing in .NET Core and Angular.
+      Discovering and trying out new technologies is my hobby and passion.
+      You can download my full CV [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+education:
+    - degree: MSc in Applied Mathematics and Informatics
+      university: Ivan Franko National University
+      time: 2018 - 2019
+      details: |
+        #tbd
+    - degree: BSc in Applied Mathematics and Informatics
+      university: Ivan Franko National University
+      time: 2012 - 2018
+      details: |
+        #tbd
+experiences:
+    - role: Full Stack Developer
+      time: 2018 - Present
+      company: SoftServe, Lviv
+      details: |
+        I work at an outstaff company. Our client is one of the world's
+        largest flooring manufacturers and distributors around the globe.
+        I maintain existing Web APIs, extend and improve services and 
+        Web projects written in .NET Core and Angular. Sometimes I deal with
+        SQL and DevOps tasks.
+projects:
+    title: Projects
+    intro: >
+      My side projects and open source libraries.
+    assignments:
+      - title: SparseMatrix
+        link: "#"
+        tagline: "A Smalltalk implementation of sparse matrices based on linked structures."
+
+      - title: snippet-sharing
+        link: "#"
+        tagline: "Snippet Sharing is a service for sharing code/text snippets. It allows you to paste a text snippet, and then you can share the link to it with somebody."
+
+publications:
+    title: Publications
+    intro: |
+      Most of my publications were made in the university as part of the credit aquisition process.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: .NET Core
+        level: 60%
+
+      - name: Javascript & Typescript
+        level: 50%
+
+      - name: Angular
+        level: 50%
+
+      - name: HTML5 & CSS
+        level: 65%
+      
+      - name: SQL
+        level: 65%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
