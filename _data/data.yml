@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: yaroslav.kormushyn@pm.me
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    phone: 
+    website:  #do not add http://
     linkedin: ykormushyn
     github: YaroslavKormushyn
     telegram: ykormushyn
@@ -62,7 +62,7 @@ education:
         #tbd
     - degree: BSc in Applied Mathematics and Informatics
       university: Ivan Franko National University
-      time: 2012 - 2018
+      time: 2014 - 2018
       details: |
         #tbd
 experiences:
@@ -81,32 +81,36 @@ projects:
       My side projects and open source libraries.
     assignments:
       - title: SparseMatrix
-        link: "#"
+        link: "https://github.com/YaroslavKormushyn/SparseMatrix"
         tagline: "A Smalltalk implementation of sparse matrices based on linked structures."
 
+      - title: Linked Data Visualizer
+        link: "https://github.com/YaroslavKormushyn/linked-data-visualizer"
+        tagline: "A step-by-step visualizer framework for linked data structures in Pharo Smalltalk using Roassal2."
+
       - title: snippet-sharing
-        link: "#"
+        link: "https://github.com/QwerMike/snippet-sharing"
         tagline: "Snippet Sharing is a service for sharing code/text snippets. It allows you to paste a text snippet, and then you can share the link to it with somebody."
 
-publications:
-    title: Publications
-    intro: |
-      Most of my publications were made in the university as part of the credit aquisition process.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       Most of my publications were made in the university as part of the credit aquisition process.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -118,7 +122,7 @@ skills:
       - name: Javascript & Typescript
         level: 50%
 
-      - name: Angular
+      - name: Angular 2+
         level: 50%
 
       - name: HTML5 & CSS
@@ -127,5 +131,14 @@ skills:
       - name: SQL
         level: 65%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Agile/Scrum
+        level: 70%
+
+      - name: Git
+        level: 65%
+
+      - name: NUnit/MS Unit
+        level: 35%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
