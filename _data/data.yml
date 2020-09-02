@@ -91,6 +91,10 @@ projects:
       - title: snippet-sharing
         link: "https://github.com/QwerMike/snippet-sharing"
         tagline: "Snippet Sharing is a service for sharing code/text snippets. It allows you to paste a text snippet, and then you can share the link to it with somebody."
+      
+      - title: Card Editor
+        link: "https://github.com/NastyaKolomoets/card-editor"
+        tagline: "Card editor for different types of cards. Right now has Munchkin tabletop card implementation hosted on GitHub Pages. Written entirely in Angular with Firebase NoSQL storage."
 
 # publications:
 #     title: Publications
