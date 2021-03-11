@@ -48,6 +48,9 @@ sidebar:
       - item: Cooking
         link:
 
+      - item: Skiing
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -67,10 +70,16 @@ education:
         #tbd
 experiences:
     - role: Full Stack Developer
-      time: 2018 - Present
+      time: 2021 - present
+      company: Idun
+      details: |
+        I work at a product company, which develops solutions for 
+        real estate owners using IoT.
+    - role: Full Stack Developer
+      time: 2018 - 2021
       company: SoftServe, Lviv
       details: |
-        I work at an outstaff company. Our client is one of the world's
+        I worked at an outstaff company. Our client is one of the world's
         largest flooring manufacturers and distributors around the globe.
         I maintain existing Web APIs, extend and improve services and 
         Web projects written in .NET Core and Angular. Sometimes I deal with
